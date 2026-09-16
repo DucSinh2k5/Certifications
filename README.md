@@ -26,7 +26,7 @@ Repository này dùng để tổng hợp, quản lý và đối soát các văn 
 | 3   | Chứng chỉ Google Data Analytics | PDF | `Chứng chỉ Google Data Analytics.pdf` | Phân tích dữ liệu |
 | 4   | Chứng chỉ SQL Advanced Hackerrank | PDF | `Chứng chỉ SQL Advanced Hackerrank.pdf` | HackerRank Skill Certification |
 | 5   | Thành tích / Luyện tập Codeforces | Thư mục | `Codeforces/` | Thuật toán / Competitive Programming |
-| 6   | Bảng điểm học tập | Bảng tính | `Diem.xlsx` | Điểm tổng kết / Rèn luyện |
+| 6   | Bảng điểm học tập | Bảng tính | `Diem.xlsx` | GPA |
 | 7   | Giấy chứng nhận PTIT OLAI | PDF | `Giay-chung-nhan-ptit-OLAI.pdf` | Chung kết Olympic AI PTIT 2026|
 | 8   | Chứng chỉ Tiếng Anh IELTS | Hình ảnh | `IELTS.jpg` | 5.5 |
 | 9   | Machine Learning Specialization | Hình ảnh | `Machine_Learning_specialization_coursera.png` | Coursera |
