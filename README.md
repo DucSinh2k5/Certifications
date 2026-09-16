@@ -21,13 +21,13 @@ Repository này dùng để tổng hợp, quản lý và đối soát các văn 
 
 | STT | Tên minh chứng / Chứng chỉ | Loại tài liệu | Đường dẫn file | Ghi chú / Điểm số |
 | :-- | :------------------------- | :------------ | :------------- | :---------------- |
-| 1   | Chứng chỉ Tiếng Anh Aptis | Hình ảnh | `Aptis.jpg` | *[Điền level/điểm]* |
+| 1   | Chứng chỉ Tiếng Anh Aptis | Hình ảnh | `Aptis.jpg` | B2 |
 | 2   | Chứng chỉ Google AI | PDF | `Chứng chỉ Google AI.pdf` | Google Career Certificates |
 | 3   | Chứng chỉ Google Data Analytics | PDF | `Chứng chỉ Google Data Analytics.pdf` | Phân tích dữ liệu |
 | 4   | Chứng chỉ SQL Advanced Hackerrank | PDF | `Chứng chỉ SQL Advanced Hackerrank.pdf` | HackerRank Skill Certification |
 | 5   | Thành tích / Luyện tập Codeforces | Thư mục | `Codeforces/` | Thuật toán / Competitive Programming |
 | 6   | Bảng điểm học tập | Bảng tính | `Diem.xlsx` | Điểm tổng kết / Rèn luyện |
-| 7   | Giấy chứng nhận PTIT OLAI | PDF | `Giay-chung-nhan-ptit-OLAI.pdf` | Olympic Tin học / AI PTIT |
-| 8   | Chứng chỉ Tiếng Anh IELTS | Hình ảnh | `IELTS.jpg` | *[Điền Overall band]* |
-| 9   | Machine Learning Specialization | Hình ảnh | `Machine_Learning_specialization_coursera.png` | Coursera (DeepLearning.AI) |
+| 7   | Giấy chứng nhận PTIT OLAI | PDF | `Giay-chung-nhan-ptit-OLAI.pdf` | Chung kết Olympic AI PTIT 2026|
+| 8   | Chứng chỉ Tiếng Anh IELTS | Hình ảnh | `IELTS.jpg` | 5.5 |
+| 9   | Machine Learning Specialization | Hình ảnh | `Machine_Learning_specialization_coursera.png` | Coursera |
 | 10  | Chứng nhận Samsung Algorithm | Hình ảnh | `SamSung_Algorithm.JPG` | Kỳ thi thuật toán Samsung |
